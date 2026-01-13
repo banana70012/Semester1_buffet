@@ -1,0 +1,120 @@
+{
+    "intents":[
+        {
+            "tag": "greeting",
+            "patterns": ["hello", "hi", "yo", "bro", "hey", "dawg", "sup", "howdy"],
+            "responses": ["Hello", "Hi, I am you ai powered guide for thermonuclear war!", "Good morning!", "Welcome to Radium AI"]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["bye", "goodbye", "out", "screw you", "done", "over"],
+            "responses": ["Good bye!", "Bye now!", "I hope you win your future thermonuclear wars!", "Sayonara!", "Bye bye!"]
+        },
+        {
+            "tag": "usnucleartriad",
+            "patterns": ["triad", "triad", "arsenal"],
+            "responses": ["The united States Nuclear triad is a three proloned stratgic nuclear force, consisting of the air, land, and sea. These three catagories consist of land based ICBMs and sea and air based SLBMs. The purpose of the triad is to make sure the US could always retaliate."]
+        },
+        {
+            "tag": "usicbms",
+            "patterns": ["icbm", "us icbms"],
+            "responses": ["The United States currently relies on the LGM-30G Minuteman III ICBM only. Which has a range of 6000+ miles and carries one 475kt warhead."]
+        },
+        {
+            "tag": "usslbms",
+            "patterns": ["subs carry", "slbms", "us slbms", "bombers carry"],
+            "responses": ["SLBMs are used by nuclear subs and aircraft. An ohio class sub can carry 20 Trident II missles, while a b-2 can hold 16 nuclear gravity bombs."]
+        },
+        {
+            "tag": "ustargets",
+            "patterns": ["targets","cities","us cities"],
+            "responses": ["Some major civilian hubs that could be a target nuclear war are Los Angeles, New York City, and Chicago. These cities hold major population centers and key industrial and economic hubs. Secondary targets could include Chicago ,Phoenix, Philadelphia, San Antonio, San Diego, Dallas, and San Jose"]
+        },
+        {
+            "tag": "casualties",
+            "patterns": ["death", "death toll", "dead", "passed away","die"],
+            "responses": ["34.4 Million deaths in the first hour. 60 Million deaths by hour two. 134 Million american deaths by the end. A predicted 1 billion world wide or over could die from fallout, nuclear winter, and starvation. Nobody wins a nuclear war."]
+        },
+        {
+            "tag": "strategy",
+            "patterns": ["mad","mutually assured destruction","deterrence","preemption","no first use","nfu","strategy"],
+            "responses": ["A strategy when it comes to nuclear weapons is mutually assured destruction. It is similar to peace through strength where you assure your enemy would be destroyed in a nuclear war by having an extensive nuclear arsenal.","Another strategy is the No First Use policy is where a country assures that it won't start a nuclear war"]
+        },
+        {
+            "tag": "enemytargets",
+            "patterns": ["enemy","russia","russian","china"],
+            "responses": ["US enemy targets are highly classified and almost unknown. The only known ones were cold war era."]
+        },
+        {   
+            "tag": "coldwar",
+            "patterns": ["soviet","union","cuba","west","east","cold war"],
+            "responses": ["The cold war was a intense rivalry between the United States and the Soviet Union and their respective allies. It mostly contained arms races and proxy wars."]
+        },
+        {
+            "tag": "cubanmissilecrisis",
+            "patterns": ["cuban","missile crisis"],
+            "responses": ["The cuban missle crisis was a 13-day provication between the Soviet Union, Cuba, and United States. The provication began when long range missles were found in Cuba and ended with the removal of American missles in Turkey and the removal of Soviet ones in Cuba."]
+        },
+        {
+            "tag": "help",
+            "patterns": ["help","assitance","me","i need assistance", "huh"],
+            "responses": ["With Radium AI, you can look and learn about the cold war and today's nuclear strategy. Some tags to use include: cuban missle crisis, cold war, enemy, mad, death, targets, slbms, and icbms"]
+        },
+        {
+            "tag": "armsrace",
+            "patterns": ["arms", "race","arm"],
+            "responses": ["An arms race is a competition between nations for superiority in the development and accumulation of weapons. A famous example is the Soviet Union and the United States."]
+        },
+        {
+            "tag": "falsealarms",
+            "patterns": ["false","alarm"],
+            "responses": ["The most famous example of a false alarm was in 1983 when soviet radar picked up a false missile reading. Stanislav Petrov, who was monitoring at the time, picked it up, but did not relay it as it would cause total annihilation."]
+        },
+        {
+            "tag": "nuclearwinter",
+            "patterns": ["winter","nuclear"],
+            "responses": ["Nuclear winter is a severe and prolonged global climatic cooling effect that is hypothesized to occur after widespread urban firestorms following a large-scale nuclear war. The hypothesis is based on the fact that such fires can inject soot into the stratosphere, where it can block some direct sunlight from reaching the surface of the Earth. It is speculated that the resulting cooling, typically lasting a decade, would lead to widespread crop failure, a global nuclear famine, and an animal mass extinction event."]
+        },
+        {
+            "tag": "spy",
+            "patterns": ["spy", "espionage", "spying in the cold war", "us espionage", "us spy"],
+            "responses": ["Cold War espionage was the intense intelligence gathering by the US/West and the Soviet Union/East, focused on military, scientific (like the atomic bomb), and political secrets, using spies, technology (like the Great Seal Bug), double agents (like the Rosenbergs), and high-tech surveillance to undermine each other, defining the era of covert conflict, with the CIA and KGB leading vast operations. "]
+        },
+        {
+            "tag": "nuclearwarinpopculture",
+            "patterns": ["movies","war games","pop culture"],
+            "responses": ["One of the most famous examples of nuclear war in pop culture is the movies War Games and Red Dawn."]
+        },
+        {
+            "tag": "disarmerment",
+            "patterns": ["disarmerment","nuclear disarmerment","no nukes"],
+            "responses": ["Through treaties like the NPT and TPNW, and ongoing efforts to manage proliferation, reduce arsenals, and shift from deterrence to global security, nuclear weapons can be reduced or even removed from society. Key aspects include treaty adherence (NPT, CTBT), non-proliferation, arms control, transparency, and addressing the challenges of transitioning control and verification. "]
+        },
+        {
+            "tag": "nuclearforgood",
+            "patterns": ["nuclear power plant","nuclear power plants","power","nuclear for good","good"],
+            "responses" : ["There are multiple ways nuclear tech is good. Such as nuclear power plants, creating clean energy. And in smoke detectors to detect smoke."]
+        },
+        {
+            "tag": "usnuclearumbrella",
+            "patterns": ["nuclear umbrella","umbrella","us umbrella","us nuclear umbrella"],
+            "responses": ["The US nuclear umbrella assures non-nuclear us allies that they would be protected in a nuclear war. This means the US would launch nuclear weapons if a country under the US umbrella were to be attacked with such weapons."]
+        },
+        {
+            "tag": "nucleardefence",
+            "patterns": ["defence","nuclear defence","defend","shoot down"],
+            "responses": ["Nuclear defense involves deterrence (threatening retaliation to prevent attack), missile defense (intercepting incoming missiles using ground/space systems like THAAD, GMD), and civil defense (protecting populations via shelters, emergency plans)."]
+        },
+        {
+            "tag": "nam",
+            "patterns": ["vietnam","nam","us involvment in vietnam"],
+            "responses": ["U.S. involvement in Vietnam escalated from financial aid and military advisors in the 1950s to large-scale combat troops by 1965, driven by the Cold War policy of containing communism(known as the domino theory)."]
+        },
+        {
+            "tag": "dominotheory",
+            "patterns": ["domino theory", "domino"],
+            "responses": ["The Domino Theory was a Cold War-era geopolitical concept, popularized by U.S. Presidents Eisenhower and Kennedy, that suggested if one nation fell to communism, its neighbors would inevitably follow, like falling dominoes."]
+        }
+    ]
+    
+}
